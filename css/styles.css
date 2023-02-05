@@ -1,0 +1,184 @@
+body {
+  background-color: #e5e5e5;
+  padding: 40px;
+  font-family: "Montserrat", sans-serif;
+}
+.wrapper {
+  background-color: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  margin: 0 auto;
+}
+.about-me {
+  padding: 88px 172px 104px 88px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.header {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  margin: 18px 0 28px 0;
+}
+
+.description {
+  margin: 0 0 64px 0;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+}
+
+.description,
+.contacts,
+h2,
+li,
+h5 {
+  font-size: 14px;
+}
+
+h2,
+h5 {
+  font-weight: 700;
+  line-height: 17px;
+  margin: 0;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: 700px;
+  line-height: 27px;
+  margin: 0 0 12px 0;
+}
+.projects-container {
+  margin-bottom: 48px;
+}
+.projects-list {
+  margin: 0 0 0 16px;
+  padding: 0;
+}
+.projects-list-number {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+}
+.projects-list-link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration: underline;
+  color: #005fff;
+  margin-left: 8px;
+}
+.projects-list-description {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.work-experience {
+  margin-bottom: 44px;
+}
+h4 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0 0 12px 0;
+}
+.company-name,
+.university-name {
+  color: #6d9bf5;
+}
+
+small {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+
+.job-responsibilities-list {
+  padding: 8px 0 0 14px;
+  margin: 0;
+  margin-bottom: 16px;
+}
+
+.job-responsibilities {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.education {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+h5 {
+  margin-bottom: 12px;
+}
+
+.linguistic {
+  margin-top: 20px;
+}
+/* Sidebar */
+img {
+  padding-top: 40px;
+}
+aside {
+  background-color: #e0ebfe;
+}
+
+.contacts-container,
+.tech-skills,
+.soft-skills {
+  padding: 40px 0 0 40px;
+}
+
+.contacts {
+  margin: 0;
+  line-height: 24px;
+}
+.contact-item {
+  margin-right: 8px;
+  font-weight: 700;
+}
+
+.phone {
+  font-weight: 400;
+  text-decoration: none;
+  color: #161d2a;
+}
+
+.email {
+  font-weight: 400;
+  text-decoration: underline;
+  color: #2979ff;
+}
+.tech-skills-list,
+.soft-skills-list {
+  margin: 0 0 0 12px;
+  padding: 0;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.tech-skills-list-dot,
+.soft-skills-list-dot {
+  color: #6d9bf5;
+}
+.tech-skills-list-item,
+.soft-skills-list-item {
+  margin-left: 4px;
+  color: #161d2a;
+}
+
+.black-vertical-bar {
+  color: #000000;
+}
