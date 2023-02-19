@@ -81,7 +81,8 @@ h3 {
   color: #595959;
 }
 
-.work-experience {
+.work-experience,
+.education-list {
   margin-bottom: 44px;
 }
 h4 {
